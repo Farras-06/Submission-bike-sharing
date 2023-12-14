@@ -19,5 +19,17 @@
 
 ## Streamlit Cloud
 View the dashboard on streamlit could directly on this link:
+
 Dasboard menunjukkan jumlah total pengguna sepanjang tahun dan musim. Hal ini juga menunjukkan perbedaan penggunaan layanan bikesharing antara pengguna casual dan pengguna registered, berdasarkan hari dalam seminggu.
+
+
+## Run Streamlit on Local
+
+### Install Dependencies
+To install all the required libraries, open your terminal/command prompt/conda prompt, navigate to this project folder, and run the following command:
+`pip install -r requirements.txt`
+
+### Run Dashboard
+`cd dashboard
+streamlit run dashboard.py`
 
